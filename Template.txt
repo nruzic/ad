@@ -1,1 +1,13 @@
 Document control
+Table of contents
+Introduction/Executive summary/Abstract
+ objectives of the document
+ goals of the system
+ scope and key requirements
+ overview of the solution
+ benefits of the solution
+ risk and mitigation strategies of the solution
+ key decisions
+ outstanding issues
+Stakeholders
+ list stakeholders and their concerns
