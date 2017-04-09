@@ -11,3 +11,22 @@ Introduction/Executive summary/Abstract
  outstanding issues
 Stakeholders
  list stakeholders and their concerns
+General Architectural principles
+ list principles
+ give rationale and implications for each principle
+ map back to business drivers
+ map forward to architectural design decisions
+Architectural design decisions
+ List and describe key design decisions
+ give rationale for each decision, document alternatives considered and explain why they were rejected
+Viewpoints
+ define viewpoints on which your views are based upon
+ use external references
+Views
+ V1
+  Principles
+  Models
+  Perspective improvements
+  Scenarios
+  Decisions
+  Comments
