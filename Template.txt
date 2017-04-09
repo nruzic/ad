@@ -30,3 +30,8 @@ Views
   Scenarios
   Decisions
   Comments
+Quality Property Summary
+ general insights
+ non view specific artifacts
+Important Scenarios
+Issues Awaiting Resolution
