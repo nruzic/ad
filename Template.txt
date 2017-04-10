@@ -1,5 +1,5 @@
 #
-# AD properties
+# 7 properties of AD (Precise Time Correction can be done with Sufficient Current through KingKongSize Clarinet)
 #  conciseness
 #  correctness
 #  sufficiency
@@ -7,8 +7,6 @@
 #  clarity
 #  currency
 #  precision
-#
-#  Current Concile took Sufficient Time for Precise and Correct Clarification 
 #
 Document control
 Table of contents
