@@ -1,3 +1,13 @@
+#
+# AD properties
+#  conciseness
+#  correctness
+#  sufficiency
+#  timeliness
+#  clarity
+#  currency
+#  precision
+#
 Document control
 Table of contents
 Introduction/Executive summary/Abstract
