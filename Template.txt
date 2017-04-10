@@ -1,5 +1,5 @@
 #
-# 7 properties of AD (Precise Time Correction can be done with Sufficient Current through KingKongSize Clarinet)
+# 7 properties of AD (Precise Time Correction can be done with Sufficient Current produced by KingKongSize Clarinet)
 #  conciseness
 #  correctness
 #  sufficiency
@@ -7,6 +7,15 @@
 #  clarity
 #  currency
 #  precision
+#
+# 7 viewpoints (confu inc ddo)
+#  context
+#  functional
+#  information
+#  concurrency
+#  development
+#  deployment
+#  operational
 #
 Document control
 Table of contents
