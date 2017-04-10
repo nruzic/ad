@@ -13,3 +13,12 @@ The scope definition for the system X includes:
    System local log files is textual file allocated on the same phisical or virtual machine running the system process.
    Format of the logging statements written into the log file by the system is not explicitly defined and is left arbitrary 
    as long as it contains sufficient information for translation into central logging system.
+   
+External entities
+
+Identified external entities to the system are following:
+
+1. Central logging system
+2. Central logging system agent
+3. System Administrator 
+4. System Operations Team Member
