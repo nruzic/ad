@@ -19,6 +19,10 @@ External entities
 Identified external entities to the system are following:
 
 1. Central logging system
+   It is reposible for collecting and presenting logging statements from multiple system instances 
+   send by its corresponding central logging system agent instance.
 2. Central logging system agent
-3. System Administrator 
-4. System Operations Team Member
+   It is responsible to collect, filter and transform individual system instance logging statements 
+   and send them to central logging system. 
+3. System Operations Team Member
+   It is responsible for monitoring central logging system and editing system instance logging configuration properties
