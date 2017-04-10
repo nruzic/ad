@@ -1,0 +1,15 @@
+Scope and Responsibilities
+
+Any capability of the system X not explicitly listed in this section is by default exluded from the system scope 
+and as such will not be part of the design of the system in place. 
+
+For clarity, this section can contain some specific capability exclusions, although, as stated above, any capability 
+which is not explicitly listed in this section should be considered excluded from the system scope.
+
+The scope definition for the system X includes:
+
+1. System shall provide logging capability by writing system relevant events into system local log files.
+   System relevan events are any warnings, errors or exceptions which occure within system process.
+   System local log files is textual file allocated on the same phisical or virtual machine running the system process.
+   Format of the logging statements written into the log file by the system is not explicitly defined and is left arbitrary 
+   as long as it contains sufficient information for translation into central logging system.
