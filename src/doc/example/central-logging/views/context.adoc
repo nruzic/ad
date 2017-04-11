@@ -1,4 +1,6 @@
-Scope and Responsibilities
+= Context View
+
+== Scope and Responsibilities
 
 Any capability of the system X not explicitly listed in this section is by default exluded from the system scope 
 and as such will not be part of the design of the system in place. 
@@ -14,7 +16,7 @@ The scope definition for the system X includes:
    Format of the logging statements written into the log file by the system is not explicitly defined and is left arbitrary 
    as long as it contains sufficient information for translation into central logging system.
    
-External entities
+== External entities
 
 Identified external entities to the system are following:
 
